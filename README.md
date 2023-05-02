@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jit-23 and im studying in 42 porto (Portugal)
-- 👀 I’m interested in programming, manga, videogames and spending time with friends ^^
+- 👀 I’m interested in programming, manga, gym, videogames and spending time with friends ^^
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on you :D
+- 💞️ I’m looking to collaborate with you :D
 - 📫 How to reach me fernandolucart@gmail.com
 - nice to meet u :DDD
 
