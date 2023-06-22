@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jit-23 and im studying in 42 porto (Portugal)
-- 👀 I’m interested in programming, manga, gym, videogames and spending time with friends ^^
-- 🌱 I’m currently learning C language
 - 📫 How to reach me fernandolucart@gmail.com
 - nice to meet u :DDD
 
