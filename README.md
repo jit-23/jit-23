@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there my name is Fernando Lucart 👋
 
+- 🔭 I’m currently studying on 42porto and working on my skills, where i try everyday to learn more about every area where my interest reaches;
+- 🌱 I’m currently learning C++, where my skills in C are being tested and put to the test; 
+- 📫 How to reach me: fernandolucart@gmail.com
 <!--
 **jit-23/jit-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
